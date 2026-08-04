@@ -56,7 +56,8 @@ src/
 - [TypeScript Playground](https://www.typescriptlang.org/play)
 - [TypeScript by Example](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
+## Live site
+Visit the live site: [https://pkm202602.github.io/typescript-learning/](https://pkm202602.github.io/typescript-learning/)
+
 ## Commits
 Track your learning progress through commits!
-
-Visit to check the site to see the code output: [https://pkm202602.github.io/typescript-learning/](https://pkm202602.github.io/typescript-learning/)
